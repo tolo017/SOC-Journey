@@ -10,3 +10,6 @@ My 40-day journey in to becoming a junior SOC analyst.
 
 ## Day 3: Mantra
 ` Permissions are the bouncers of the Linux club. Read? You can see the dance floor. Write? You can change the music. Execute? You can walk through the door. But SUID? That's the bouncer handing you his VIP badge and saying 'Go ahead, act like me.' If I find a misplaced SUID binary, I don't need to break root. I just borrow the bouncer's jacket.`
+
+## Day 4: Mantra
+` Getting root is loud. Holding root is quiet. A smart thief doesn't smash the window and run. They replace the lock with their own, hide in the attic, and listen. Processes are my camouflage. I rename my malware to look like system threads. I schedule my callbacks during backup windows. The SOC analyst is looking for a flashing red light. I give them a steady green hum.`
