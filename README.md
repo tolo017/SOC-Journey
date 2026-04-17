@@ -13,3 +13,6 @@ My 40-day journey in to becoming a junior SOC analyst.
 
 ## Day 4: Mantra
 ` Getting root is loud. Holding root is quiet. A smart thief doesn't smash the window and run. They replace the lock with their own, hide in the attic, and listen. Processes are my camouflage. I rename my malware to look like system threads. I schedule my callbacks during backup windows. The SOC analyst is looking for a flashing red light. I give them a steady green hum.`
+
+## Day 5: Mantra
+` Networks are just conversations. Every packet is a sentence. SYN is 'Hello, can we talk?' SYN-ACK is 'Sure, pull up a chair.' RST is 'Go away, we're closed.' If I can listen to these conversations, I know exactly which doors are open, which are locked, and who's home. SOC analyst hears noise. I hear intelligence.`
