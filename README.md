@@ -16,3 +16,6 @@ My 40-day journey in to becoming a junior SOC analyst.
 
 ## Day 5: Mantra
 ` Networks are just conversations. Every packet is a sentence. SYN is 'Hello, can we talk?' SYN-ACK is 'Sure, pull up a chair.' RST is 'Go away, we're closed.' If I can listen to these conversations, I know exactly which doors are open, which are locked, and who's home. SOC analyst hears noise. I hear intelligence.`
+
+# Day 6: Mantra
+` Passwords are the weakest link in any fortress. Humans reuse them. They write them on sticky notes. They make them 'Summer2024!'. Hydra is my locksmith. It tries every key on the ring until one turns. The SOC analyst sees a few 'failed password' lines and yawns. I see a pattern—a rhythm—and eventually, a 'session opened' entry that means I own the house.`
